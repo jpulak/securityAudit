@@ -75,7 +75,6 @@ Conducted a full cybersecurity audit for **Botium Toys**, a company with both on
 - Risk Assessment Summary
 - Strategic Recommendations Report
 
-> *(Link to your PDF here or embed it if hosted on GitHub or Google Drive)*
 
 ---
 
