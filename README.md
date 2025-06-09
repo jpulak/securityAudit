@@ -71,7 +71,7 @@ Conducted a full cybersecurity audit for **Botium Toys**, a company with both on
 
 ## Deliverables
 
-- Completed [Controls & Compliance Checklist](#)
+- Completed [Controls & Compliance Checklist](https://github.com/jpulak/securityAudit/blob/a4ff083ceb182ee582a909083894b72b127d6db0/Controls%20and%20compliance%20checklist.pdf)
 - Risk Assessment Summary
 - Strategic Recommendations Report
 
@@ -99,4 +99,4 @@ This project demonstrates my ability to:
 
 ---
 
-### 📄 [Download PDF Audit Report](#) *https://docs.google.com/document/d/1pH8p5NdOFH39b5tiL7RkWIiZY_Ec3ktz3UXckDAXkLE/edit?usp=sharing*
+### 📄 [Download PDF Audit Report](https://docs.google.com/document/d/1pH8p5NdOFH39b5tiL7RkWIiZY_Ec3ktz3UXckDAXkLE/edit?usp=sharing)
