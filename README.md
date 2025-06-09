@@ -35,9 +35,9 @@ Conducted a full cybersecurity audit for **Botium Toys**, a company with both on
 | Least Privilege           | Not implemented – full access granted to all users   |
 | Encryption                | Missing – credit card & customer data unprotected     |
 | Backups / Recovery        | Not in place – no recovery or backup system          |
-| Password Management     | ⚠Weak policy, lacks enforcement & centralized control  |
+| Password Management     | Weak policy, lacks enforcement & centralized control  |
 | Technical Controls        | Firewall and antivirus present, IDS missing         |
-| Compliance                | Gaps in PCI DSS & SOC; ⚠Partial GDPR compliance     |
+| Compliance                | Gaps in PCI DSS & SOC; Partial GDPR compliance     |
 
 > **Risk Score:** 8/10 – Indicates high organizational risk due to control and compliance weaknesses.
 
@@ -49,7 +49,7 @@ Conducted a full cybersecurity audit for **Botium Toys**, a company with both on
 |----------------------------------------------------|------------------|
 | Firewall / Antivirus                               | Implemented    |
 | Intrusion Detection System (IDS)                   | Not Implemented |
-| Password Policy                                    | ⚠ Needs Update   |
+| Password Policy                                    | Needs Update   |
 | Encryption for Sensitive Data                      | Missing        |
 | GDPR Breach Notification Plan                      | Present        |
 | PCI DSS Requirements (Cardholder Data Security)    | Mostly Unmet   |
@@ -81,7 +81,7 @@ Conducted a full cybersecurity audit for **Botium Toys**, a company with both on
 ## Skills Demonstrated
 
 - Security Auditing  
-- ⚖Risk Management  
+- Risk Management  
 - Compliance Analysis (PCI DSS, GDPR, SOC)  
 - Technical & Administrative Control Evaluation  
 - Security Documentation & Reporting  
