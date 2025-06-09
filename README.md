@@ -1,4 +1,4 @@
-# 🔐 Security Audit: Botium Toys – Controls & Compliance
+# Security Audit: Botium Toys – Controls & Compliance
 
 **📌 Project Type:** Cybersecurity Portfolio Project  
 **📅 Date Completed:** June 2025  
@@ -6,13 +6,13 @@
 
 ---
 
-## 🧭 Project Overview
+## Project Overview
 
 Conducted a full cybersecurity audit for **Botium Toys**, a company with both online and in-store retail operations. The audit assessed their IT-managed assets, risk posture, and compliance with major industry standards. Deliverables included a completed Controls and Compliance Checklist and strategic recommendations for security improvement.
 
 ---
 
-## 🎯 Scope & Goals
+## Scope & Goals
 
 - **Scope:** Entire security program, including:
   - Internal network
@@ -28,36 +28,36 @@ Conducted a full cybersecurity audit for **Botium Toys**, a company with both on
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 | Category                      | Finding                                                |
 |------------------------------|---------------------------------------------------------|
-| 🔐 Least Privilege           | ❌ Not implemented – full access granted to all users   |
-| 🔒 Encryption                | ❌ Missing – credit card & customer data unprotected     |
-| 🔁 Backups / Recovery        | ❌ Not in place – no recovery or backup system          |
-| 🧑‍💻 Password Management     | ⚠️ Weak policy, lacks enforcement & centralized control  |
-| 🧱 Technical Controls        | ✅ Firewall and antivirus present, ❌ IDS missing         |
-| 🔏 Compliance                | ❌ Gaps in PCI DSS & SOC; ⚠️ Partial GDPR compliance     |
+| Least Privilege           | Not implemented – full access granted to all users   |
+| Encryption                | Missing – credit card & customer data unprotected     |
+| Backups / Recovery        | Not in place – no recovery or backup system          |
+| Password Management     | ⚠Weak policy, lacks enforcement & centralized control  |
+| Technical Controls        | Firewall and antivirus present, IDS missing         |
+| Compliance                | Gaps in PCI DSS & SOC; ⚠Partial GDPR compliance     |
 
 > **Risk Score:** 8/10 – Indicates high organizational risk due to control and compliance weaknesses.
 
 ---
 
-## ✅ Controls & Compliance Snapshot
+## Controls & Compliance Snapshot
 
 | Control / Compliance Area                          | Status           |
 |----------------------------------------------------|------------------|
-| Firewall / Antivirus                               | ✅ Implemented    |
-| Intrusion Detection System (IDS)                   | ❌ Not Implemented |
-| Password Policy                                    | ⚠️ Needs Update   |
-| Encryption for Sensitive Data                      | ❌ Missing        |
-| GDPR Breach Notification Plan                      | ✅ Present        |
-| PCI DSS Requirements (Cardholder Data Security)    | ❌ Mostly Unmet   |
-| SOC (Access Controls, PII Confidentiality)         | ❌ Not Established|
+| Firewall / Antivirus                               | Implemented    |
+| Intrusion Detection System (IDS)                   | Not Implemented |
+| Password Policy                                    | ⚠ Needs Update   |
+| Encryption for Sensitive Data                      | Missing        |
+| GDPR Breach Notification Plan                      | Present        |
+| PCI DSS Requirements (Cardholder Data Security)    | Mostly Unmet   |
+| SOC (Access Controls, PII Confidentiality)         | Not Established|
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 - Implement **Role-Based Access Controls (RBAC)** and enforce least privilege
 - Deploy **end-to-end encryption** for sensitive financial and personal data
@@ -69,27 +69,27 @@ Conducted a full cybersecurity audit for **Botium Toys**, a company with both on
 
 ---
 
-## 📁 Deliverables
+## Deliverables
 
-- ✅ Completed [Controls & Compliance Checklist](#)
-- ✅ Risk Assessment Summary
-- ✅ Strategic Recommendations Report
+- Completed [Controls & Compliance Checklist](#)
+- Risk Assessment Summary
+- Strategic Recommendations Report
 
 > *(Link to your PDF here or embed it if hosted on GitHub or Google Drive)*
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
-- 🔍 Security Auditing  
-- ⚖️ Risk Management  
-- 🧑‍💼 Compliance Analysis (PCI DSS, GDPR, SOC)  
-- 🔐 Technical & Administrative Control Evaluation  
-- 📝 Security Documentation & Reporting  
+- Security Auditing  
+- ⚖Risk Management  
+- Compliance Analysis (PCI DSS, GDPR, SOC)  
+- Technical & Administrative Control Evaluation  
+- Security Documentation & Reporting  
 
 ---
 
-## 💼 Why This Matters
+## Why This Matters
 
 This project demonstrates my ability to:
 - Apply security frameworks in real-world scenarios  
